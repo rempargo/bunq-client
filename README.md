@@ -25,6 +25,11 @@ Or install it yourself as:
 
     $ gem install bunq-client
 
+require with:
+
+    require 'bunq/client'
+
+
 ### One time setup
 
 1) Create installation
